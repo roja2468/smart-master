@@ -1,0 +1,48 @@
+.image-product{
+    width:  80px !important;
+    height: 80px !important;
+    background-position: 50% 50% !important;
+    border-radius: 30% !important;
+    margin:auto !important;
+}
+.image-product-div{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.dropify-wrapper{
+    height: 120px !important;
+}
+.has-danger{
+    color: red !important;
+}
+.select2-selection__placeholder{
+    font-weight : 400 !important;
+    color : #67757c !important;
+}
+.invalid-feedback{
+    display: block;
+    font-weight: bold;
+}
+.invalid-feedback{
+display: block;
+font-weight: bold;
+}
+.dropify-wrapper .dropify-message p {
+    text-align: center !important;
+}
+.dropify-btn{
+    margin-bottom: 20px;
+}
+.floating-labels .form-control:focus{
+    border-bottom: 1px solid #d9d9d9 !important;
+}
+.container_box{
+    border: 1px solid #80808061;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.clear-both{
+    clear: both;
+}
